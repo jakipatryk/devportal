@@ -170,6 +170,7 @@ result = {
     user_metadata: {} // additional information user has setup.
 }
 ```
+
 ##### Logout
 
 > In order to logout, you can use the `revokeToken` function from `sc2-sdk`.
